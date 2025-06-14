@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "email": "joao.silva@example.com",
+      "age": 34,
+      "role": "admin",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-05-10T08:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "age": 28,
+      "role": "editor",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-06-15T12:45:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Pereira",
+      "email": "carlos.pereira@example.com",
+      "age": 42,
+      "role": "user",
+      "city": "Belo Horizonte",
+      "country": "Brasil",
+      "active": false,
+      "createdAt": "2022-11-01T09:15:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Ana Souza",
+      "email": "ana.souza@example.com",
+      "age": 31,
+      "role": "user",
+      "city": "Porto Alegre",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-07-20T14:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Almeida",
+      "email": "pedro.almeida@example.com",
+      "age": 29,
+      "role": "admin",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-04-05T10:20:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Juliana Costa",
+      "email": "juliana.costa@example.com",
+      "age": 33,
+      "role": "editor",
+      "city": "Salvador",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-03-12T16:50:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Rafael Lima",
+      "email": "rafael.lima@example.com",
+      "age": 27,
+      "role": "user",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "active": false,
+      "createdAt": "2022-10-28T08:10:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Fernanda Martins",
+      "email": "fernanda.martins@example.com",
+      "age": 36,
+      "role": "admin",
+      "city": "Recife",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-01-22T11:35:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Lucas Fernandes",
+      "email": "lucas.fernandes@example.com",
+      "age": 30,
+      "role": "user",
+      "city": "Manaus",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-09-10T09:05:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Camila Santos",
+      "email": "camila.santos@example.com",
+      "age": 25,
+      "role": "editor",
+      "city": "Florianópolis",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-08-05T13:20:00Z"
+    },
+    {
+      "id": 11,
+      "name": "Bruno Ribeiro",
+      "email": "bruno.ribeiro@example.com",
+      "age": 38,
+      "role": "user",
+      "city": "Goiânia",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2022-12-17T17:40:00Z"
+    },
+    {
+      "id": 12,
+      "name": "Isabela Azevedo",
+      "email": "isabela.azevedo@example.com",
+      "age": 26,
+      "role": "admin",
+      "city": "Belém",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-10-01T10:00:00Z"
+    },
+    {
+      "id": 13,
+      "name": "Thiago Nascimento",
+      "email": "thiago.nascimento@example.com",
+      "age": 37,
+      "role": "editor",
+      "city": "Natal",
+      "country": "Brasil",
+      "active": false,
+      "createdAt": "2023-02-14T15:30:00Z"
+    },
+    {
+      "id": 14,
+      "name": "Larissa Gomes",
+      "email": "larissa.gomes@example.com",
+      "age": 29,
+      "role": "user",
+      "city": "Maceió",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-06-30T12:10:00Z"
+    },
+    {
+      "id": 15,
+      "name": "Daniel Rocha",
+      "email": "daniel.rocha@example.com",
+      "age": 32,
+      "role": "admin",
+      "city": "Campo Grande",
+      "country": "Brasil",
+      "active": true,
+      "createdAt": "2023-04-18T08:55:00Z"
+    }
+  ]
+}
